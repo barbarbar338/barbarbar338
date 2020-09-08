@@ -1,5 +1,5 @@
 # Hi, I am Barış DEMİRCİ (a.k.a barbarbar338)
-![banner](https://raw.githubusercontent.com/barbarbar338/barbarbar338/master/banner.png)
+
 ---
 I usually spend my time playing games, listening to songs, trying interesting things with javascript and python.
 ## Social Media
