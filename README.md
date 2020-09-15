@@ -1,8 +1,8 @@
-# Hi, I am Barış DEMİRCİ (a.k.a barbarbar338)
+# ✨ Hey there! It's barbarbar338
 ![banner](https://bariscodes.me/img/banner.png)
 ---
 I usually spend my time playing games, listening to songs, trying interesting things with javascript and python.
-## Social Media
+## 🌍 Social Media
 - [Instagram](https://www.instagram.com/ben_baris.d/)
 - [Discord](https://discordapp.com/users/331846231514939392)
 - [Twitter](https://twitter.com/ben_baris_d)
@@ -10,7 +10,7 @@ I usually spend my time playing games, listening to songs, trying interesting th
 - [NPM](https://www.npmjs.com/~leydihavuc)
 - [Website](https://bariscodes.me)
 
-## Projects and Repositories
+## 💡 Projects and Repositories
 | Project - Repo | Status|
 | ----------- | ----------- |
 | [is-my.fun](http://is-my.fun)| Active|
@@ -21,10 +21,10 @@ I usually spend my time playing games, listening to songs, trying interesting th
 | [picass.co](https://picass.co) | WIP |
 | [Pinkie API](https://api.bariscodes.me/) | Active |
 
-## Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 ![barbarbar338's Github Stats](https://github-readme-stats.vercel.app/api?username=barbarbar338&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
-## Favorite Games
+## 🦄 Favorite Games
 - Brawlhalla
 - Europa Universalis IV
 - Bloons TD Battles
