@@ -27,6 +27,8 @@ I usually spend my time playing games, listening to songs, trying interesting th
 ## 🦄 Favorite Games
 - Brawlhalla
 - Europa Universalis IV
+- Hearts Of Iron IV
+- Age Of Empires III Definitive Edition
 - Bloons TD Battles
 - Don't Starve Together
 - Garry's Mod
