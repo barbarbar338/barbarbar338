@@ -22,7 +22,10 @@ I usually spend my time playing games, listening to songs, trying interesting th
 | [Chrome Password Manager Extension](https://github.com/barbarbar338/password-manager-extension) | Ended |
 
 ## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-![barbarbar338's Github Stats](https://github-readme-stats.vercel.app/api?username=barbarbar338&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=barbarbar338&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarbar338&layout=compact&count_private=true&include_all_commits=true&hide_border=true&langs_count=10"/>
+</p>
 
 ## 🦄 Favorite Games
 - Brawlhalla
