@@ -1,5 +1,5 @@
 # ✨ Hey there! It's barbarbar338
-![banner](https://bariscodes.me/img/banner.png)
+![banner](https://bariscodes.me/banner.png)
 ---
 I usually spend my time playing games, listening to songs, trying interesting things with javascript and python.
 ## 🌍 Social Media
