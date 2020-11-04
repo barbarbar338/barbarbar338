@@ -13,13 +13,14 @@ I usually spend my time playing games, listening to songs, trying interesting th
 ## 💡 Projects and Repositories
 | Project - Repo | Status|
 | ----------- | ----------- |
+| [HastePaste](https://github.com/HastePasteApp) | WIP |
 | [reaction-role](https://www.npmjs.com/package/reaction-role) | Active |
 | [bookman](https://www.npmjs.com/package/bookman) | Active |
-| [express-dersleri](https://github.com/barbarbar338/express-dersleri) | Ended |
+| [express-dersleri](https://github.com/barbarbar338/express-dersleri) | Done |
 | [picass.co](https://picass.co) | WIP |
 | [Pinkie API](https://api.bariscodes.me/) | Active |
-| [Brawlhalla Open API](https://brawlhalla-api.bariscodes.me/) | WIP |
-| [Chrome Password Manager Extension](https://github.com/barbarbar338/password-manager-extension) | Ended |
+| [Brawlhalla Open API](https://brawlhalla-api.bariscodes.me/) | Done |
+| [Chrome Password Manager Extension](https://github.com/barbarbar338/password-manager-extension) | Done |
 
 ## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 <p align="center">
