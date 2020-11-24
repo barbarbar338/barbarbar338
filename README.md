@@ -11,16 +11,35 @@ I usually spend my time playing games, listening to songs, trying interesting th
 - [Website](https://bariscodes.me)
 
 ## 💡 Projects and Repositories
-| Project - Repo | Status|
+<div style="display: grid; grid-template-columns: 50% 50%; grid-template-rows: auto auto;">
+
+| Project | Status|
 | ----------- | ----------- |
+| [Personal Webpage](https://github.com/barbarbar338/webpage) | Done |
 | [HastePaste](https://github.com/HastePasteApp) | WIP |
-| [reaction-role](https://www.npmjs.com/package/reaction-role) | Active |
-| [bookman](https://www.npmjs.com/package/bookman) | Active |
 | [express-dersleri](https://github.com/barbarbar338/express-dersleri) | Done |
+| [React Snake Tutorial](https://github.com/barbarbar338/react-snake-tutorial) | Done |
+| [NodeJS Running Dedicated Server](https://github.com/barbarbar338/terraria-server) | Done |
 | [picass.co](https://picass.co) | WIP |
 | [Pinkie API](https://api.bariscodes.me/) | Active |
 | [Brawlhalla Open API](https://brawlhalla-api.bariscodes.me/) | Done |
 | [Chrome Password Manager Extension](https://github.com/barbarbar338/password-manager-extension) | Done |
+
+| Module | Status|
+| ----------- | ----------- |
+| [daph](https://npmjs.com/daph) | Active |
+| [bargs](https://npmjs.com/bargs) | Active |
+| [ytdownload](https://npmjs.com/ytdownload) | Active |
+| [locale-parser](https://npmjs.com/locale-parser) | Active |
+| [mc-achievements](https://npmjs.com/mc-achievements) | Active |
+| [reaction-role](https://npmjs.com/reaction-role) | On Hold |
+| [bookman](https://npmjs.com/bookman) | Active |
+| [canvas-pie-chart](https://npmjs.com/canvas-pie-chart) | Active |
+| [eris-collector](https://npmjs.com/eris-collector) | Active |
+| [minisweeper](https://npmjs.com/minisweeper) | Done |
+
+</div>
+
 
 ## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
 <p align="center">
