@@ -11,7 +11,7 @@ I usually spend my time playing games, listening to songs, trying interesting th
 - [Website](https://bariscodes.me)
 
 ## 💡 Projects and Repositories
-<div style="display: grid; grid-template-columns: 50% 50%; grid-template-rows: auto auto;">
+<p style="display: grid; grid-template-columns: 50% 50%; grid-template-rows: auto auto;">
 
 | Project | Status|
 | ----------- | ----------- |
@@ -38,7 +38,7 @@ I usually spend my time playing games, listening to songs, trying interesting th
 | [eris-collector](https://npmjs.com/eris-collector) | Active |
 | [minisweeper](https://npmjs.com/minisweeper) | Done |
 
-</div>
+</p>
 
 
 ## 📈 Github Stats (API source: [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
