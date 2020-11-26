@@ -22,7 +22,7 @@ I usually spend my time playing games, listening to songs, trying interesting th
 | [NodeJS Running Dedicated Server](https://github.com/barbarbar338/terraria-server) | Done |
 | [picass.co](https://picass.co) | WIP |
 | [Pinkie API](https://api.bariscodes.me/) | Active |
-| [Brawlhalla Open API](https://brawlhalla-api.bariscodes.me/) | Done |
+| [Brawlhalla Open API](https://brawlhalla.bariscodes.me/) | Done |
 | [Chrome Password Manager Extension](https://github.com/barbarbar338/password-manager-extension) | Done |
 
 | Module | Status|
