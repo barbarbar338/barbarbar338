@@ -2,6 +2,7 @@
 ![banner](https://bariscodes.me/banner.png)
 ---
 JavaScript (Node & client side) developer with over 10 years experience. I might be able to help you about js and ts - he/him
+
 I usually spend my time playing games, listening to songs, trying interesting things with new technologies.
 ## 🌍 Social Media
 - [Instagram](https://www.instagram.com/ben_baris.d/)
