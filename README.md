@@ -24,3 +24,4 @@ I usually spend my time playing games, listening to songs, trying interesting th
     <img src="https://github-readme-stats.vercel.app/api?username=barbarbar338&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarbar338&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&hide_border=true&langs_count=10" />
 </p>
+<img src="https://github-profile-trophy.vercel.app/?username=barbarbar338&theme=dracula" />
