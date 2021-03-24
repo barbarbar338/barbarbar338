@@ -6,8 +6,8 @@ const express = require("express");
 config();
 
 const app = express();
-const hrs12 = 1000 * 60 * 60 * 12;
-setInterval(updateProfile, hrs12);
+const hrs5 = 1000 * 60 * 60 * 5;
+setInterval(updateProfile, hrs5);
 
 app.get("/", (_, res) => {
     res.sendStatus(200);
