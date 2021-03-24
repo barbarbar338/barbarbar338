@@ -10,6 +10,10 @@ const hrs12 = 1000 * 60 * 60 * 12;
 setInterval(updateProfile, hrs12);
 
 app.get("/", (_, res) => {
+    res.sendStatus(200);
+});
+
+app.get("/login", (_, res) => {
     const params = {
         client_id: process.env.GITHUB_CLIENT_ID,
         redirect_uri: "http://localhost:3000/callback",
