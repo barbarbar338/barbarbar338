@@ -27,3 +27,4 @@ I usually spend my time playing games, listening to songs, trying interesting th
     <img src="https://activity-graph.herokuapp.com/graph?username=barbarbar338&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
 </p>
 
+![visits](https://komarev.com/ghpvc/?username=barbarbar338)
