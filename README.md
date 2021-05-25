@@ -1,6 +1,6 @@
 # ✨ Hey there! It's barbarbar338 
 
-![banner](https://bariscodes.me/banner.png) 
+![banner](https://barbarbar338.fly.dev/banner.png) 
 
 JavaScript (Node & client side) developer with over 10 years experience. I might be able to help you about js and ts - he/him 
 
