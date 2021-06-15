@@ -1,12 +1,13 @@
-# ✨ Hey there! It's barbarbar338 
+# ✨ Hey there! It's barbarbar338
 
-![banner](https://barbarbar338.fly.dev/banner.png) 
+![banner](https://barbarbar338.fly.dev/banner.png)
 
-JavaScript (Node & client side) developer with over 10 years experience. I might be able to help you about js and ts - he/him 
+Back-end developer with over 10 years experience. I might be able to help you about js, ts, go, c langs etc. - he/him
 
-I usually spend my time playing games, listening to songs, trying interesting things with new technologies. 
+I usually spend my time playing games, listening to songs, trying interesting things with new technologies.
 
 ## 🌍 Social Media
+
 <p align="center">
     <a href="http://instagram.com/ben_baris.d"><img src="https://img.shields.io/badge/ben_baris.d%20-FF08B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://discord.com/users/331846231514939392"><img src="https://img.shields.io/badge/barbarbar338%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
