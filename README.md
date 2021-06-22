@@ -29,3 +29,6 @@ I usually spend my time playing games, listening to songs, trying interesting th
 </p>
 
 ![visits](https://komarev.com/ghpvc/?username=barbarbar338)
+
+# ⚽ Activity
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/331846231514939392)](https://discord.com/users/331846231514939392)
