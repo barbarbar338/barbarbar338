@@ -2,9 +2,9 @@
 
 ![banner](https://barbarbar338.fly.dev/banner.png)
 
-Back-end developer with over 10 years experience. I might be able to help you about js, ts, go, c langs etc. - he/him
+Self-taught back-end developer with over 10 years experience. More interested in TypeScript, Go and Postgres. Addicted to Metroid games.
 
-I usually spend my time playing games, listening to songs, trying interesting things with new technologies.
+I usually spend my time playing games, listening to songs, trying interesting things with new technologies. Might be able to help you about JS, TS, Go & Postgres.
 
 ## 🌍 Social Media
 
