@@ -10,7 +10,7 @@ I usually spend my time playing games, listening to songs, trying interesting th
 
 <p align="center">
     <a href="http://instagram.com/ben_baris.d"><img src="https://img.shields.io/badge/ben_baris.d%20-FF08B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://discord.com/users/331846231514939392"><img src="https://img.shields.io/badge/barbarbar338%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.com/users/952574663916154960"><img src="https://img.shields.io/badge/barbarbar338%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.npmjs.com/~leydihavuc"><img src="https://img.shields.io/badge/leydihavuc%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://barbarbar338.fly.dev/discord"><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://github.com/barbarbar338"><img src="https://img.shields.io/badge/barbarbar338%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -34,4 +34,4 @@ I usually spend my time playing games, listening to songs, trying interesting th
 ![visits](https://komarev.com/ghpvc/?username=barbarbar338)
 
 # ⚽ Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/331846231514939392)](https://discord.com/users/331846231514939392)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
