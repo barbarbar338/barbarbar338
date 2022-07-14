@@ -2,7 +2,7 @@
 
 ![banner](https://barbarbar338.fly.dev/banner.png)
 
-Self-taught back-end developer with over 10 years experience. More interested in TypeScript, Go and Postgres. Addicted to Metroid games.
+Self-taught back-end developer. More interested in TypeScript, Go and Postgres. Loves to play Metroid games.
 
 I usually spend my time playing games, listening to songs, trying interesting things with new technologies. Might be able to help you about JS, TS, Go & Postgres.
 
