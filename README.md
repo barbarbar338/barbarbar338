@@ -30,15 +30,22 @@ I usually spend my time playing games, listening to songs, trying interesting th
 ## 📈 Github Stats
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=barbarbar338&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarbar338&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true" />
-    <img src="https://github-profile-trophy.vercel.app/?username=barbarbar338&theme=radical" />
-    <img src="https://activity-graph.herokuapp.com/graph?username=barbarbar338&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=barbarbar338&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true">
+    <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarbar338&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true">
+</p>
+
+<p align="center">
+    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=barbarbar338&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
+    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=barbarbar338&theme=radical" /> 
+    <img width="100%" src="https://raw.githubusercontent.com/barbarbar338/barbarbar338/output/github-contribution-grid-snake-dark.svg" />     
 </p>
 
 ![visits](https://komarev.com/ghpvc/?username=barbarbar338)
 
 # ⚽ Activity
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/952574663916154960)](https://discord.com/users/952574663916154960)
+<p align="center">
+    <img src="https://spotify-readme-badge.vercel.app/api/now-playing" />
+    <img src="https://lanyard-profile-readme.vercel.app/api/952574663916154960" />
+</p>
 
-[![Spotify Status](https://spotify-readme-badge.vercel.app/api/now-playing)](https://github.com/akellbl4/spotify-badge)
+
