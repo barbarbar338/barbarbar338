@@ -2,9 +2,7 @@
 
 ![banner](https://barbarbar338.fly.dev/banner.png)
 
-Self-taught back-end developer. More interested in TypeScript, Go and Postgres. Loves to play Metroid games.
-
-I usually spend my time playing games, listening to songs, trying interesting things with new technologies. Might be able to help you about JS, TS, Go & Postgres.
+Self-taught back-end developer. More interested in TypeScript, Go and Postgres. Loves to play Metroid games. Might be able to help you about JS, TS, Go & Postgres.
 
 ## 🌍 Social Media
 
@@ -48,4 +46,9 @@ I usually spend my time playing games, listening to songs, trying interesting th
     <img width="75%" src="https://lanyard-profile-readme.vercel.app/api/952574663916154960" />
 </p>
 
-
+# 🖥️ Specs
+CPU: Intel Core i3-10105F
+GPU: AMD Radeon RX 6400
+RAM: 16GB DDR4 3200Mhz
+Storage: 256GB NVMe + 2x500GB HDD
+Mother Board: MSI H510M Pro
