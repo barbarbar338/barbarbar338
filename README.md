@@ -47,8 +47,8 @@ Self-taught back-end developer. More interested in TypeScript, Go and Postgres. 
 </p>
 
 # 🖥️ Specs
-CPU: Intel Core i3-10105F
-GPU: AMD Radeon RX 6400
-RAM: 16GB DDR4 3200Mhz
-Storage: 256GB NVMe + 2x500GB HDD
-Mother Board: MSI H510M Pro
+- CPU: Intel Core i3-10105F
+- GPU: AMD Radeon RX 6400
+- RAM: 16GB DDR4 3200Mhz
+- Storage: 256GB NVMe + 2x500GB HDD
+- Mother Board: MSI H510M Pro
