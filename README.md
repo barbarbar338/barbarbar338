@@ -8,7 +8,7 @@ Self-taught back-end developer. More interested in TypeScript, Go and Postgres. 
 
 <p align="center">
     <a href="http://instagram.com/barisbored"><img src="https://img.shields.io/badge/barisbored%20-FF08B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
-    <a href="https://discord.com/users/952574663916154960"><img src="https://img.shields.io/badge/barbarbar338%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
+    <a href="https://discord.com/users/952574663916154960"><img src="https://img.shields.io/badge/barisbored%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.npmjs.com/~leydihavuc"><img src="https://img.shields.io/badge/leydihavuc%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://discord.com/invite/BjEJFwh"><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://github.com/barisbored"><img src="https://img.shields.io/badge/barbarbar338%20-1d202b.svg?&style=for-the-badge&logo=github&logoColor=white" /></a>
