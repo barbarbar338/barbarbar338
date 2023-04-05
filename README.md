@@ -21,7 +21,7 @@ Self-taught back-end developer. More interested in TypeScript, Go and Postgres. 
 
 ## 🧦 My Sponsors
 
-![Sponsors](https://raw.githubusercontent.com/barbarbar338/.github/main/sponsors.wide.png)
+![Sponsors](https://raw.githubusercontent.com/barbarbar338/.github/main/sponsors.png)
 
 
 ## 📈 Github Stats
