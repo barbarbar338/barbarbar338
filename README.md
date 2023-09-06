@@ -2,7 +2,7 @@
 
 ![banner](https://338.rocks/banner.png)
 
-Self-taught back-end developer. More interested in TypeScript, Go and Postgres. Loves to play Metroid games. Might be able to help you about JS, TS, Go & Postgres.
+Self-taught back-end developer. More interested in TypeScript, Go and Postgres. Loves to play Metroid games. Might be able to help you about JS, TS, Go, Postgres and backend stuff.
 
 ## 🌍 Social Media
 
@@ -46,8 +46,7 @@ Self-taught back-end developer. More interested in TypeScript, Go and Postgres. 
 </p>
 
 # 🖥️ Specs
-- CPU: Intel Core i3-10105F
-- GPU: AMD Radeon RX 6400
+- CPU: Intel Core i5-13500H
+- GPU: NVIDIA RTX 4050
 - RAM: 16GB DDR4 3200Mhz
-- Storage: 256GB NVMe + 2x500GB HDD
-- Mother Board: MSI H510M Pro
+- Storage: 2TB NVMe
