@@ -1,8 +1,8 @@
-# ✨ Hey there! It's barbarbar338
+# ✨ Hey there! It's bar
 
 ![banner](https://338.rocks/banner.png)
 
-Self-taught back-end developer. More interested in TypeScript, Go and Postgres. Loves to play Metroid games. Might be able to help you about JS, TS, Go, Postgres and backend stuff.
+Self-taught back-end developer & robotic integrator. EEE student @ Abdullah Gül University. Loves to play computer games. Might be able to help you about JS, TS, Go, Postgres and backend stuff.
 
 ## 🌍 Social Media
 
