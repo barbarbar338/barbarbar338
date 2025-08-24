@@ -19,33 +19,8 @@ Self-taught back-end developer & robotic integrator. EEE student @ Abdullah Gül
     
 </p>
 
-## 🧦 My Sponsors
-
-![Sponsors](https://raw.githubusercontent.com/barbarbar338/.github/main/sponsors.png)
-
-
-## 📈 Github Stats
-
-<p align="center">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api?username=barbarbar338&show_icons=true&hide_title=true&theme=radical&text_color=FF9DD9&count_private=true&include_all_commits=true">
-    <img width="75%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbarbar338&layout=compact&text_color=FF9DD9&title_color=FF9DD9&bg_color=141321&count_private=true&include_all_commits=true&langs_count=10&hide_title=true">
-</p>
-
-<p align="center">
-    <img width="100%" src="https://activity-graph.herokuapp.com/graph?username=barbarbar338&bg_color=141321&color=FF9DD9&line=FF9DD9&point=9dffc3" />
-    <img width="100%" src="https://github-profile-trophy.vercel.app/?username=barbarbar338&theme=radical" /> 
-</p>
-
-![visits](https://komarev.com/ghpvc/?username=barbarbar338)
-
 # ⚽ Activity
 <p align="center">
     <img width="75%" src="https://spotify-readme-badge.vercel.app/api/now-playing" />
     <img width="75%" src="https://lanyard-profile-readme.vercel.app/api/952574663916154960" />
 </p>
-
-# 🖥️ Specs
-- CPU: Intel Core i5-13500H
-- GPU: NVIDIA RTX 4050
-- RAM: 16GB DDR4 3200Mhz
-- Storage: 2TB NVMe
