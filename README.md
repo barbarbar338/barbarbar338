@@ -7,7 +7,7 @@ Self-taught back-end developer & robotic integrator. EEE student @ Abdullah Gül
 ## 🌍 Social Media
 
 <p align="center">
-    <a href="http://instagram.com/ben_baris.d"><img src="https://img.shields.io/badge/ben_baris.d%20-FF08B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+    <a href="http://instagram.com/338.rocks"><img src="https://img.shields.io/badge/338.rocks%20-FF08B4.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
     <a href="https://discord.com/users/952574663916154960"><img src="https://img.shields.io/badge/barbarbar338%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
     <a href="https://www.npmjs.com/~leydihavuc"><img src="https://img.shields.io/badge/leydihavuc%20-1d202b.svg?&style=for-the-badge&logo=npm&logoColor=white" /></a>
     <a href="https://discord.com/invite/BjEJFwh"><img src="https://img.shields.io/badge/Server%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>
